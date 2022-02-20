@@ -9,7 +9,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia-Velasco&layout=compact" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
      <img align="center"  src="https://i.pinimg.com/originals/cd/c6/83/cdc683324ce04ea4e0ea0b79ec5a48c0.gif" width="300" height="300"/>
   </a>
 </div>
